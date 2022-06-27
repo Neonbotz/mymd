@@ -26,7 +26,7 @@ global.dTcx = 'Add Me'
 global.nUmx = '+627719424487' 
 //================ Buttons ================//
 global.bTnx = [['DASHBOARD', '.say blum pasang:v']] //buttons map
-global.mediaMenu = 'https://telegra.ph/file/505b2a03d98bb3b8680e7.jpg'
+global.mediaMenu = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg'
 global.lIm = 'Ⓛ'
 global.pRm = 'Ⓟ'
 global.uRl = 'Ⓤ'
